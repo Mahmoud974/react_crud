@@ -1,0 +1,36 @@
+{
+  "articles": [
+    {
+      "author": "From Scratch",
+      "content": "      Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente doloribus vel sunt laborum eos enim odit maxime corporis vero nihil voluptatum a, ullam delectus ad sit. Odit quis adipisci illo sit porro recusandae? Sequi, dolorum repellendus doloremque qui tempora beatae.",
+      "date": 1621530288602,
+      "id": 1
+    },
+    {
+      "author": "Bill Gates",
+      "content": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente doloribus vel sunt laborum eos enim odit maxime corporis vero nihil voluptatum a, ullam delectus ad sit. Odit quis adipisci illo sit porro recusandae? Sequi, dolorum repellendus doloremque qui tempora beatae.\n\nLorem, ipsum dolor sit amet consectetur adipisicing elit. Sapiente doloribus vel sunt laborum eos enim odit maxime corporis vero nihil voluptatum a, ullam delectus ad sit. Odit quis adipisci illo sit porro recusandae? Sequi, dolorum repellendus doloremque qui tempora beatae.",
+      "date": 1621536029778,
+      "id": 2
+    },
+    {
+      "author": "Mark Zuckerberg",
+      "content": "  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatibus nesciunt natus explicabo eum impedit iusto commodi inventore veniam ullam rerum id laborum quisquam dolor, non quos eaque suscipit minus magnam ab, deleniti perspiciatis doloremque. Dignissimos nesciunt, deserunt quasi temporibus, repellat perferendis asperiores qui soluta ipsum est reprehenderit doloribus ullam amet. Dolorem labore harum ut numquam voluptas illo cum adipisci accusantium sapiente, veritatis explicabo iste fugit quaerat quos, nisi voluptatibus ipsum dicta reprehenderit in nulla rem nemo voluptatem expedita laboriosam? In sit, ipsa corrupti illum ipsum eligendi pariatur blanditiis ad earum aliquid aliquam, tempore voluptatibus harum quasi nisi minus culpa? Consectetur facere deleniti nihil maiores perferendis, voluptate quam, nostrum ipsa odio, odit magni tempore? Eaque beatae perferendis repellendus! Assumenda, ad repellendus voluptatem maxime tenetur eligendi. Odio voluptates enim doloribus suscipit ut alias expedita voluptas natus sed dolores, ipsa explicabo quod corrupti, beatae corporis!",
+      "date": 1621536056135,
+      "updatedDate": 1663430257896,
+      "id": 3
+    },
+    {
+      "author": "Moussa",
+      "content": "  Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatibus nesciunt natus explicabo eum impedit iusto commodi inventore veniam ullam rerum id laborum quisquam dolor, non quos eaque suscipit minus magnam ab, deleniti perspiciatis doloremque. Dignissimos nesciunt, deserunt quasi temporibus, repellat perferendis asperiores qui soluta ipsum est reprehenderit doloribus ullam amet. Dolorem labore harum ut numquam voluptas illo cum adipisci accusantium sapiente, veritatis explicabo iste fugit quaerat quos, nisi voluptatibus ipsum dicta reprehenderit in nulla rem nemo voluptatem expedita laboriosam? In sit, ipsa corrupti illum ipsum eligendi pariatur blanditiis ad earum aliquid aliquam, tempore voluptatibus harum quasi nisi minus culpa? Consectetur facere deleniti nihil maiores perferendis, voluptate quam, nostrum ipsa odio, odit magni tempore? Eaque beatae perferendis repellendus! Assumenda, ad repellendus voluptatem maxime tenetur eligendi. Odio voluptates enim doloribus suscipit ut alias expedita voluptas natus sed dolores, ipsa explicabo quod corrupti, beatae corporis!",
+      "date": 1663430267346,
+      "id": 4
+    },
+    {
+      "author": "Guys",
+      "content": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptatibus nesciunt natus explicabo eum impedit iusto commodi inventore veniam ullam rerum id laborqssqqsqqsum quisquam dolor, non quos eaque suscipit minus magnam ab, deleniti perspiciatis doloremque. Dignissimos nesciunt, deserunt quasi temporibus, repellat perferendis asperiores qui soluta ipsum est reprehenderit doloribus ullam amet. Dolorem labore harum ut numquam voluptas illo cum adipisci accusantium sapiente, veritatis explicabo iste fugit quaerat quos, nisi voluptatibus ipsum dicta reprehenderit in nulla rem nemo voluptatem expedita laboriosam? In sit, ipsa corrupti illum ipsum eligendi pariatur blanditiis ad earum aliquid aliquam, tempore voluptatibus harum quasi nisi minus culpa? Consectetur facere deleniti nihil maiores perferendis, voluptate quam, nostrum ipsa odio, odit magni tempore? Eaque beatae perferendis repellendus! Assumenda, ad repellendus voluptatem maxime tenetur eligendi. Odio voluptates enim doloribus suscipit ut alias expedita voluptas natus sed dolores, ipsa explicabo quod corrupti, beatae corporis!",
+      "date": 1663430315626,
+      "updatedDate": 1663430602765,
+      "id": 5
+    }
+  ]
+}
